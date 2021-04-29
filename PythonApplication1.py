@@ -14,6 +14,7 @@
 #	f=3
 #	print(f);
 #print("end.")
+print("Rtydrsdcusgvcgs")
 
 ##############ЦИКЛ for#####################
 #for i in range(1, 8):
